@@ -1,0 +1,4 @@
+
+You can download any llama-2 output compatible model .gguf. 
+
+I personally recommend using any of these models: https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF/tree/main
