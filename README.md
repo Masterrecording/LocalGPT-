@@ -1,13 +1,13 @@
 
 # LocalGPT
 
-This repository contains a simple local app to run any gguf llama mode.
+☄️This is a simple local app to run any gguf llama model.☄️
 
 ## Installation
 
 To install and run the app, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/LocalGPT.git`
+1. Clone the repository: `git clone https://github.com/masterrecording/LocalGPT.git`
 2. Navigate to the project directory: `cd LocalGPT`
 3. Install the required dependencies: `pip install -r requirements.txt`
 4. Start the app: `python main.py`
