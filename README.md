@@ -9,12 +9,12 @@ To install and run the app, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your-username/LocalGPT.git`
 2. Navigate to the project directory: `cd LocalGPT`
-3. Install the required dependencies: `npm install`
-4. Start the app: `npm start`
+3. Install the required dependencies: `pip install -r requirements.txt`
+4. Start the app: `python main.py`
 
 ## Usage
 
-Once the app is running, you can access it by opening your web browser and navigating to `http://localhost:3000`. From there, you can interact with the gguf llama mode.
+Once the app is running, you can use it as a chat to interact with the model you are using.
 
 ## Contributing
 
